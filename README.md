@@ -21,7 +21,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,scala,java,html,css,react,reactnative,mongo,nodejs,express,php,mysql,dart,flutter,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,scala,java,html,css,react,mongo,nodejs,express,php,mysql,dart,flutter,py" />
   </a>
 </p>
 
@@ -42,11 +42,23 @@
 </p>
 <br/>
 
-## Github Activity ✔
+## GitHub Activity ✔
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameemadhu16&theme=monokai)
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameemadhu16&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
 
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=Sameemadhu16&show_icons=true&theme=bear&hide_border=true&include_all_commits=true&count_private=true)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameemadhu16&theme=monokai)
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Sameemadhu16&theme=soft-green)](https://git.io/streak-stats)
+
+## GitHub Trophies 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sameemadhu16&theme=onestar&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contribution Graph 🌱
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sameemadhu16&theme=react-dark&hide_border=true)
+
+## Visitors Count 👀
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sameemadhu16.Sameemadhu16)
+
