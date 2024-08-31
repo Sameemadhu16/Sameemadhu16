@@ -21,7 +21,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,scala,java,html,css,react,mongo,nodejs,express,php,mysql,dart,flutter,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,scala,java,html,css,react,reactnative,mongo,nodejs,express,php,mysql,dart,flutter,py" />
   </a>
 </p>
 
