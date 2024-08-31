@@ -60,19 +60,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sameemadhu16&theme=react-dark&hide_border=true)
 
 
-## Wakatime Stats ⏰
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sameemadhu16&theme=bear&hide_border=true)
-
-## Featured Repositories 🚀
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sameemadhu16&repo=RepoName1&theme=bear)](https://github.com/Sameemadhu16/RepoName1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sameemadhu16&repo=RepoName2&theme=bear)](https://github.com/Sameemadhu16/RepoName2)
-
-
 ## Starred Repositories ⭐
 ![Starred Repos](https://github-readme-stats.vercel.app/api?username=Sameemadhu16&show_icons=true&theme=bear&hide=prs,issues&line_height=24&count_private=true&include_all_commits=true&hide_title=true&card_width=500)
-
-## Codewars Stats 🎯
-![Codewars](https://www.codewars.com/users/Sameemadhu16/badges/large)
 
 ## Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
