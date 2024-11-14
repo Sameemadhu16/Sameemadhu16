@@ -45,7 +45,9 @@
 ## GitHub Activity ✔
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameemadhu16&theme=monokai)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameemadhu16&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
+<div style="display:flex;">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameemadhu16&theme=vue-dark&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
+</div>
 
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=Sameemadhu16&show_icons=true&theme=bear&hide_border=true&include_all_commits=true&count_private=true)
 
