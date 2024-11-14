@@ -43,36 +43,26 @@
 <br/>
 
 ## GitHub Activity ✔
+<p align="left">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sameemdhu16&theme=soft-green&hide_border=true" alt="GitHub Streak" /></a>
+  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameemadhu16&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
+</p>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameemadhu16&theme=monokai)
-
-<div style="display:flex;">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameemadhu16&theme=vue-dark&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
-</div>
-
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=Sameemadhu16&show_icons=true&theme=bear&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameemadhu16&theme=monokai)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Sameemadhu16&theme=soft-green)](https://git.io/streak-stats)
 
-## GitHub Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sameemadhu16&theme=onestar&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contribution Graph 🌱
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sameemadhu16&theme=react-dark&hide_border=true)
 
-## Dynamic Quote 💡
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ## Starred Repositories ⭐
 ![Starred Repos](https://github-readme-stats.vercel.app/api?username=Sameemadhu16&show_icons=true&theme=bear&hide=prs,issues&line_height=24&count_private=true&include_all_commits=true&hide_title=true&card_width=500)
 
-## Latest Blog Posts 📝
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## Spotify Now Playing 🎧
-![Spotify](https://novatorem.vercel.app/api/spotify)
 
 
 
