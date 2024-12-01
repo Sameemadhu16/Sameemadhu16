@@ -68,7 +68,7 @@
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameemadhu16&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameemadhu16&theme=monokai)
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sameemadhu16&theme=dark&show_icons=true&count_private=true" />
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Sameemadhu16&theme=soft-green)](https://git.io/streak-stats)
 
