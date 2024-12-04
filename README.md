@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/github/stars/Sameemadhu16?label=Total%20Stars&style=social" alt="GitHub Stars" />
 </p>
 
----
 
 ### 👨‍💻 About Me
 - 🎓 I’m an undergraduate in **Computer Science** at UCSC, Sri Lanka.
@@ -18,7 +17,6 @@
 - 📫 Reach me at **[sameemadhu2003@gmail.com](mailto:sameemadhu2003@gmail.com)**.
 - ⚡ Fun fact: I love solving puzzles and contributing to open-source!
 
----
 
 ### 💻 Tech Stack
 #### Programming Languages:
